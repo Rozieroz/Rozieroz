@@ -1,6 +1,6 @@
 # Hi, I'm Rose Wabere 👋  
 
-🚀 **Data Science Engineer | Full-Stack Developer | AI & Security Enthusiast**  
+**Data Science Engineer | Full-Stack Developer | AI & Security Enthusiast**  
 
 I build solutions at the intersection of **data, software, and security**. I design intelligent systems that transform raw data into business intelligence — building scalable **data pipelines**, **machine learning models**, and **end-to-end applications** that solve real-world problems and work towards making a social impact.  
 
@@ -8,7 +8,7 @@ With a background in **Criminology & Security Studies** and certifications in **
 
 ---
 
-## ⚙️ Core Competencies  
+## Core Competencies  
 **Data Science | Data Engineering | Machine Learning | Full-Stack Development**
 
 
@@ -69,11 +69,6 @@ With a background in **Criminology & Security Studies** and certifications in **
 - Cybersecurity & Risk Analysis  
 - Responsible AI, Data Privacy & Ethics  
 - Criminology & Behavioral Research-Inspired Behavioral Data Insights  
-
----
-
-## Personal Philosophy  
-> “Data, technology, and security are not separate disciplines — they’re lenses through which we understand, protect, and improve the world.”  
 
 ---
 ## Let’s Connect  
